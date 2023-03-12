@@ -1,4 +1,8 @@
-## Olá, eu sou o Tom Fuzer!!!
+# 👋🏽 Hi, I'm Tom Fuzer.
+  
+#### 👨🏽‍💻 Graduando em Engenharia da Computação e focado atualmente em desenvolvimento front-end. Interessado em aprender novas tecnologias e buscando uma oportunidade de  utilizar meus conhecimentos de gestão de pessoas e processos no desenvolvimentos de soluções que melhorem a qualidade de vida das pessoas
+
+##
 
 <div align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomfuzer&show_icons=true&count_private=true&hide_border=true&title_color=8f00ff&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" alt="Tom Fuzer" /> 
@@ -27,6 +31,11 @@
 ##
 
 - 🌱 I’m currently learning front-end (JavaScript, CSS & HTML)
-- 📫 How to reach me: tomfuzer@hotmail.com
+- 📫 How to reach me: tomfuzer@hotmail.com or tomfuzer13@gmail.com
+<div align="center">
+  <br>   
+  <br>
+   <a href="https://www.linkedin.com/in/hamilton-fuzer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" title="LinkedIn"></a>
+</div>
 
 
