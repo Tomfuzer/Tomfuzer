@@ -30,7 +30,7 @@
 
 ##
 
-- 🌱 I’m currently learning front-end (JavaScript, CSS & HTML)
+- 🌱 Developing myself in C#, .NET, CSS/HTML, JavaScript, and Angular.
 - 📫 How to reach me: tomfuzer@hotmail.com or tomfuzer13@gmail.com
 <div align="center">
   <br>   
