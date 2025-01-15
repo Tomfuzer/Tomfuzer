@@ -30,7 +30,7 @@
 
 ##
 
-- 🌱 Developing myself in C#, .NET, CSS/HTML, JavaScript, and Angular.
+- 🌱 Developing myself in C#, .NET, CSS/HTML, JavaScript, and React.
 - 📫 How to reach me: tomfuzer@hotmail.com or tomfuzer13@gmail.com
 <div align="center">
   <br>   
