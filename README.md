@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Tom Fuzer.
   
-#### 👨🏽‍💻 Bacharel em Engenharia da Computação e desenvolvedor fullstack. Interessado em aprender novas tecnologias e buscando uma oportunidade de utilizar meus conhecimentos de gestão de pessoas e processos no desenvolvimentos de soluções que melhorem a qualidade de vida das pessoas
+#### 👨🏽‍💻 Bacharel em Engenharia da Computação e desenvolvedor fullstack. Interessado em aprender novas tecnologias e buscando uma oportunidade de utilizar meus conhecimentos de gestão de pessoas e processos no desenvolvimentos de soluções que gerem valor para organizações e indivíduos 
 
 <!--##
 
